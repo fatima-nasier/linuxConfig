@@ -14,7 +14,7 @@ This is the sixth project for the Udacity Full Stack Nanodegree. This project in
 
 1. Create an [free account](https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F) account. 
 1. Choose Create a resource in the upper left corner of the Azure portal.
-1. select Ubuntu Server 16.04 LTS by Canonical, then choose Create.
+1. select Ubuntu Server 18.04.1 LTS by Canonical, then choose Create.
 1. In the Basics tab, under Project details type name of the resource group 
 1. Under Instance details, give your Virtual machine name
 1. Under Administrator account, select SSH public key.
